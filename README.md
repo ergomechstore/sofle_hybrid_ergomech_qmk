@@ -23,7 +23,7 @@ The firmware is fully supported by VIAL, this is the firmware folder for compili
 
 - run `make git-submodule`
 
-- Compile the firmware: `qmk compile -kb sofle_ergomech_qmk -km vial -e CONVERT_TO=promicro_rp2040`
+- Compile the firmware: `qmk compile -kb sofle_ergomech_qmk -km vial -e CONVERT_TO=rp2040_ce`
 
 ### How to flash the firmware
 
